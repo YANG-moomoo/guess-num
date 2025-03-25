@@ -19,3 +19,4 @@ while True:
 	elif num < r:
 		print('你猜得比答案小')
 	print('這是你猜的第', count, '次')
+	print('答案是', r)
